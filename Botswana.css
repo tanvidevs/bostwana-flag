@@ -1,0 +1,22 @@
+*{
+    background-color: aliceblue;
+    transform: translate(170px,90px);
+}
+.mainbox{
+    height: 100px;
+    width: 350px;
+    background-color: dodgerblue;
+    
+}
+.main{
+    height: 50px;
+    width: 350px;
+    background-color: black;
+    margin-top: 1%;
+}
+.conatainer{
+    height: 100px;
+    width: 350px;
+    background-color: dodgerblue;
+    margin-top: 1%;
+}
